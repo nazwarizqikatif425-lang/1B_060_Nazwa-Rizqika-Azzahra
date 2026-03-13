@@ -1,0 +1,2 @@
+Main-Class: id.ac.polban.employee.main.EmployeeMain
+
